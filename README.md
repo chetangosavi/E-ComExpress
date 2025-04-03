@@ -60,3 +60,14 @@ To run this project locally, follow these steps:
 
 
 8. **The application should now be running locally.
+
+9. **Usage
+   User Registration/Login: Create a new account or log in with existing credentials.
+   
+   Browse Products: Explore the product catalog and view detailed information.
+   
+   Manage Cart: Add or remove products from the shopping cart and adjust quantities.
+   
+   Checkout: Proceed to checkout to place orders securely.
+   
+   Admin Functions: (For admin users) Add, edit, or remove products; manage user roles; view and process orders.
