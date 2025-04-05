@@ -12,6 +12,11 @@ E-ComExpress is a full-stack e-commerce web application designed to provide user
 - **Order Management**: Place orders and view order history.
 - **Admin Dashboard**: Manage products, orders, and users with administrative privileges.
 
+## Screenshots
+
+![Login](client/assets/1_login_signup.png)
+
+
 ## Installation
 
 To run this project locally, follow these steps:
