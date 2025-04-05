@@ -14,31 +14,31 @@ E-ComExpress is a full-stack e-commerce web application designed to provide user
 
 ## Screenshots
 
-# Login
+### Login
 ![Login](client/src/assets/1_login_signup.png)
 
-# Admin Dashboard
+### Admin Dashboard
 ![adminDashboard](client/src/assets/admin_dashboard.png)
 
-# Admin Product
+### Admin Product
 ![adminProducts](client/src/assets/admin_products.png)
 
-# Admin Add Product
+### Admin Add Product
 ![adminaddproduct](client/src/assets/admin_add_product.png)
 
-# User Landing Page
+### User Landing Page
 ![userhomepage](client/src/assets/User_landing_page.png)
 
-# Products
+### Products
 ![products](client/src/assets/products.png)
 
-# Cart
+### Cart
 ![cart](client/src/assets/User_cart.png)
 
-# Checkout
+### Checkout
 ![checkout](client/src/assets/User_Checkout.png)
 
-# Search
+### Search
 ![search](client/src/assets/search.png)
 
 
