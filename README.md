@@ -14,7 +14,7 @@ E-ComExpress is a full-stack e-commerce web application designed to provide user
 
 ## Screenshots
 
-![Login](client/assets/1_login_signup.png)
+![Login](client/src/assets/1_login_signup.png)
 
 
 ## Installation
